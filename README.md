@@ -2,6 +2,8 @@
 
 这个目录用于部署 App Store 需要的公开网页。
 
+当前页面已包含 iCloud 云同步、StoreKit 内购/订阅状态、本地数据不上传业务服务器等说明；App 内隐私政策和用户协议入口会加载这里的在线页面。
+
 推荐 GitHub Pages URL：
 
 - `https://<domain>/privacy/`
